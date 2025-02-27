@@ -1,1 +1,2 @@
-# odin-recipes
+Within this project i will be making a basic recipes webpage using basic git and html skills. All these skills have been learned through The Odin Project Foundations Course. 
+The visuals of the page will be adjusted later on in the CSS course.
